@@ -69,7 +69,7 @@ export function Subscribe () {
                     </form>
                 </div>
             </div>
-            <img src="/src/assets/Group7735.png" alt="" className="mt-10" />
+            <img src="https://raw.githubusercontent.com/augustofoxavier/plataforma-de-video-aulas/main/src/assets/Group7735.png" alt="" className="mt-10" />
 
         </div>
     
